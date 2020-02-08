@@ -30,6 +30,7 @@ def map_to_double(source)
   return result
 end
 
+<<<<<<< HEAD
 def map_to_square(source)
   index = 0
   result = []
@@ -74,3 +75,5 @@ def reduce_to_any_true(source)
   end
   return false
 end
+=======
+>>>>>>> 1ad9fcadaee485513b843891a50a2082584c8deb
